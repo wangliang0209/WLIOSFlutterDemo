@@ -1,0 +1,39 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+  - hello_flutter (0.0.1):
+    - Flutter
+  - Masonry (1.1.0)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - Flutter (from `../hello_flutter/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../hello_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - hello_flutter (from `../hello_flutter/.ios/Flutter`)
+  - Masonry (~> 1.1)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SnapKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../hello_flutter/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../hello_flutter/.ios/Flutter/FlutterPluginRegistrant"
+  hello_flutter:
+    :path: "../hello_flutter/.ios/Flutter"
+
+SPEC CHECKSUMS:
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  FlutterPluginRegistrant: 2afd5ea46d3a949472c9b7da6462d8fbf7d8b16e
+  hello_flutter: c2f723c597593458feb6659c1a24f27a385c0dc0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 6213d58b3e1940869852b3e6f4d27dbdc1c8e8b2
+
+COCOAPODS: 1.10.1
